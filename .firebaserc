@@ -1,8 +1,9 @@
 {
   "projects": {
-    "default": "fireship-lessons-be3df",
+    "default": "cicd-42c48",
     "CICD1": "cicd1-44321",
-    "CICD_1": "fireship-lessons-be3df"
+    "CICD_1": "fireship-lessons-be3df",
+    "CICD": "cicd-42c48"
   },
   "targets": {},
   "etags": {}
