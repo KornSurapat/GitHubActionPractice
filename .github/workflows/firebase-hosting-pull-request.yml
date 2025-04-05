@@ -17,5 +17,5 @@ jobs:
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
-          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_FIRESHIP_LESSONS_BE3DF }}
-          projectId: fireship-lessons-be3df
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_CICD_42C48 }}
+          projectId: cicd-42c48
